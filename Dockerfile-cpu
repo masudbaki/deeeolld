@@ -36,6 +36,7 @@ RUN pip install -r requirements.txt
 EXPOSE 8888
 EXPOSE 5000
 
+CMD ["python3", "app.py"]
 
-ENTRYPOINT ["sh", "/data/run_notebook.sh"]
+# ENTRYPOINT ["sh", "/data/run_notebook.sh"]
 
