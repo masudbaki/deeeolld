@@ -3,7 +3,6 @@ fastai==1.0.51
 wandb
 Flask
 scikit-image
-libgl1-mesa-glx
 gunicorn
 tensorboardX==1.6
 jupyterlab
