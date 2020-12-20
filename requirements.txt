@@ -2,7 +2,7 @@ fastai==1.0.51
 wandb
 Flask
 scikit-image
-gunicorn
+voila
 tensorboardX==1.6
 jupyterlab
 ffmpeg
