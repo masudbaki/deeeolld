@@ -3,6 +3,7 @@ wandb
 Flask
 scikit-image
 voila
+gunicorn
 tensorboardX==1.6
 jupyterlab
 ffmpeg
