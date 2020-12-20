@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser ImageColorizer.ipynb
+web: gunicorn app:app
